@@ -14,7 +14,7 @@ $news = new WP_Query([
             <div class="l-hero__text">
                 <div class="hero__title">
                     <h1 class="t-heading-section hero__heading">
-                        Tin tức và Sự Kiện
+                        Tin Tức - Sự Kiện
                     </h1>
                 </div>
             </div>
@@ -149,7 +149,8 @@ $news = new WP_Query([
                             </div>
                         </a>
                     </div>
-
+                    <div class="l-media-block-load-more"><a href="#">Xem thêm</a></div>
+                    <hr>
                     <div class="l-section l-section--small">
                         <h3 class="blog-home-sidebar__heading t-eyebrow-a h-color-text-gold">
                             Sự kiện đã qua
@@ -193,7 +194,7 @@ $news = new WP_Query([
                                 </div>
                             </a>
                         </div>
-
+                        <div class="l-media-block-load-more"><a href="#">Xem thêm</a></div>
                     </div>
 
                 </div>
