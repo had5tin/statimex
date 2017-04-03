@@ -24,25 +24,26 @@ $news2 = new WP_Query([
             <h3 class="open-positions-title">Open Positions</h3>
             <ul class="item-list">
                 <li class="item">
-                    <a href="/careers/senior-marketing-and-channel-development-manager">
-                        <div class="inner">Senior Marketing and Channel Development Manager</div>
+                    <a href="/statimex/tuyen-dung/qua%cc%89n-ly-ban-hang-khu-vu%cc%a3c/">
+                        <div class="inner">Quản Lý Bán Hàng Khu Vực</div>
                     </a>
                 </li>
                 <li class="item">
-                    <a href="/careers/technical-quality-assurance-lead">
-                        <div class="inner">Technical Quality Assurance Lead</div>
+                    <a href="/statimex/tuyen-dung/tuyen-dung-thu-kho-nhua-duong/">
+                        <div class="inner">Tuyển dụng: Thủ kho nhựa đường</div>
                     </a>
                 </li>
                 <li class="item">
-                    <a href="/careers/lead-magento-architect">
-                        <div class="inner">Lead Magento Architect</div>
+                    <a href="/statimex/tuyen-dung/qua%cc%89n-ly-ban-hang-khu-vu%cc%a3c/">
+                        <div class="inner">Quản Lý Bán Hàng Khu Vực</div>
                     </a>
                 </li>
                 <li class="item">
-                    <a href="/careers/project-manager-1">
-                        <div class="inner">Project Manager</div>
+                    <a href="/statimex/tuyen-dung/tuyen-dung-thu-kho-nhua-duong/">
+                        <div class="inner">Tuyển dụng: Thủ kho nhựa đường</div>
                     </a>
                 </li>
+
             </ul>
         </div>
         <div class="career-bottom-info">
