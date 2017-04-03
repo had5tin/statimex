@@ -32,6 +32,9 @@ function cmax_scripts_custom() {
     wp_enqueue_style( 'cmax-custom-style',get_template_directory_uri() . '/assets/css/custom-themes.css' );
     wp_enqueue_script( 'custom-themes-js', get_template_directory_uri() . '/assets/js/custom-themes.js', array(), '20151215', true );
 
+
+    // vanha
+    wp_enqueue_style( 'news-custom-style',get_template_directory_uri() . '/assets/css/main_ghafari.css' );
 }
 add_action( 'wp_enqueue_scripts', 'cmax_scripts_custom' );
 
