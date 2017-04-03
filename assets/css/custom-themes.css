@@ -323,4 +323,334 @@ header .logo .container .right {
     text-align: right;
 }
 
+/*==================================================================*/
+#tuyen-dung {
+    margin-top: 15px !important;
+}
+
+/* CAREERS */
+body.path-careers #main-wrapper {
+    overflow: hidden;
+}
+
+.path-careers.node-type-page #main-wrapper .hero-img {
+    display: block;
+    height: 195px;
+    margin-bottom: 16px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.path-careers.node-type-page #main-wrapper .page-title {
+    border-bottom: 1px solid #d1d1d1;
+    max-width: 610px;
+    padding-left: 0;
+}
+
+.path-careers.node-type-page #main-wrapper .page-title h1 {
+    margin: 15px 0;
+}
+
+.path-careers.node-type-page #main-wrapper .item-list {
+    text-align: center;
+    margin-top: 10px;
+    width: 960px;
+}
+
+#tuyen-dung .content-area {
+    margin-top: 0;
+    max-width: 940px;
+}
+
+#tuyen-dung .item-list .item {
+    margin-left: 5px;
+    background: url(../images/bg_partners-list.png) no-repeat center top transparent;
+    display: inline-block;
+    height: auto;
+    width: 290px;
+    margin: 0 15px 15px 0;
+}
+
+#tuyen-dung .item-list .item:nth-child(3n) {
+    margin-right: 0;
+}
+
+#tuyen-dung .item-list .item a {
+    display: table-cell;
+    height: 152px;
+    padding: 0 15px;
+    width: 285px;
+    vertical-align: middle;
+    font-size: 24px;
+    color: #000000;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#tuyen-dung .item-list .item a:hover {
+    color: #949494;
+}
+
+#tuyen-dung .item-list .item a .inner {
+    position: relative;
+    top: -10px;
+}
+
+.career-top-info {
+    overflow: hidden;
+}
+
+.career-top-info img {
+    float: right;
+}
+
+.career-top-info p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 28px;
+    max-width: 600px;
+}
+
+.career-bottom-info h3.core-values {
+    margin-top: 10px;
+}
+
+.culture-block h3,
+.open-positions .open-positions-title {
+    text-align: center;
+    border-bottom: 1px solid #d1d1d1;
+    padding: 15px 0;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.culture-block h3 {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.perks-benefits-block {
+    background: url(../images/careers/Gui_by_numbers_2560x400.jpg) no-repeat;
+    margin: 40px -860px 35px -800px;
+    padding: 35px 810px;
+    overflow: hidden;
+
+    padding: 20px 810px;
+    height: 399px;
+}
+
+.perks-benefits-block h3 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.perks-benefits-block ul {
+    font-size: 19px;
+    font-weight: 500;
+    max-width: 425px;
+    float: left;
+    color: #fff;
+    line-height: 1.250em;
+    list-style-image: url("../images/careers/career_sidebar-bullet.png");
+    list-style-position: outside;
+    padding-left: 7px;
+    margin-left: 7px;
+    display: block;
+}
+
+.perks-benefits-block ul:first-child {
+    margin-right: 100px;
+}
+
+.perks-benefits-block li {
+    margin-bottom: 10px;
+}
+
+.guidance-culture-list {
+    font-size: 19px;
+    font-weight: 500;
+    float: right;
+    line-height: 1.250em;
+    list-style-image: url("../images/career_sidebar-bullet.png");
+    list-style-position: outside;
+    padding-left: 7px;
+    margin-left: 7px;
+    max-width: 370px;
+}
+
+.guidance-culture-list li {
+    margin-bottom: 10px;
+}
+
+/* JOB OPENING */
+#tuyen-dung .hero-img {
+    display: block;
+    height: 195px;
+    margin-bottom: 16px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#tuyen-dung {
+    margin: 0 auto;
+    padding-top: 0;
+}
+
+#tuyen-dung .page-title {
+    border-bottom: 1px solid #D5D5D5;
+    clear: right;
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 0 0 10px;
+    width: 600px;
+}
+
+#tuyen-dung.page-title h1 {
+    font-size: 2.25em;
+    font-weight: 500;
+    margin: 0;
+    text-transform: capitalize;
+    clear: both;
+    display: block;
+    padding-top: 8px;
+}
+
+#tuyen-dung .content-area {
+    clear: both;
+    display: block;
+    width: 900px;
+    color: #2B2B2B;
+    margin: 0 auto;
+}
+
+#tuyen-dung .sidebar-right {
+    display: inline-block;
+    float: right;
+    /* margin-top: -38px;*/
+    margin-top: -53px;
+    vertical-align: top;
+    width: 280px;
+}
+
+.path-careers.node-type-job-opening a.apply {
+    width: 125px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;
+    font-size: 0.938em;
+    background: url('../images/career_apply-btn.png') no-repeat center center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.path-careers.node-type-job-opening .buttons-set {
+    margin-top: 10px;
+    display: inline-block;
+    height: 30px;
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+
+.path-careers.node-type-job-opening .buttons-set .social-media {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.path-careers.node-type-job-opening .buttons-set .social-media .share {
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.path-careers.node-type-job-opening .buttons-set .social-media .share.fb {
+    width: 48px;
+    overflow: hidden;
+}
+
+.path-careers.node-type-job-opening .buttons-set .social-media .share.email {
+    display: inline-block;
+}
+
+.path-careers.node-type-job-opening .buttons-set .social-media .share.email a {
+    display: block;
+    width: 70px;
+    height: 24px;
+    background: url("../images/career_email-btn.png") no-repeat center center;
+}
+
+.path-careers.node-type-job-opening #main-wrapper .links {
+    display: inline-block;
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+
+.path-careers.node-type-job-opening a.download {
+    font-weight: 500;
+    font-size: 0.813em;
+    padding-left: 14px;
+    background: url("../images/work-detail_download-ico.png") no-repeat left center;
+}
+
+.path-careers.node-type-job-opening a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.path-careers.node-type-job-opening a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.path-careers.node-type-job-opening #main-wrapper .content-area h2 {
+    font-weight: 700;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+.path-careers.node-type-job-opening #main-wrapper .content-area p:first-child {
+    margin-top: 0;
+}
+
+.path-careers.node-type-job-opening .breadcrumb {
+    float: none;
+    display: block;
+}
+
+#tuyen-dung .item-list {
+    padding: 0;
+    text-align: center;
+    width: 910px;
+}
+
+#tuyen-dung .item-list .item a .inner {
+    color: #d42828;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#tuyen-dung .career-bottom-info {
+    margin-bottom: 15px;
+}
+
+#tuyen-dung .career-bottom-info .core-values {
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
 /*=======================================*/
